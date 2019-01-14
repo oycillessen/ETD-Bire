@@ -12,7 +12,8 @@ Following are the requirements for getting the most out of ETD-Bire:
 - Two wireless network adapters that supports AP & Monitor mode and is capable of injection.(such as TL-WN722N)
 - Software required:
 	* Python 3.5+
-	* wpa_supplicant (```bashsudo apt-get install wpa_supplicant```)
+	* wpa_supplicant 
+		sudo apt-get install wpa_supplicant
 - Python-Libary required:
 	* pyqt5 (```bashpip install pyqt5```)
 	* scapy (```bashpip intall scapy```)
