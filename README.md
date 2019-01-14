@@ -26,7 +26,7 @@ run the following commands:
 ```bash
 git clone https://github.com/oycillessen/ETD-Bire.git
 cd ETD-Bire
-sudo python3 main.py
+sudo python main.py
 ```
 
 ## License
