@@ -29,8 +29,12 @@ cd ETD-Bire
 sudo python3 main.py
 ```
 
+## License
+
+(C) oycillessen 2019, [GPL-3.0 License].
+
+[GPL-3.0 License]: https://opensource.org/licenses/GPL-3.0
+
 ## Contact
 
-(c) oycillessen@foxmail.com 2019, [GPL-3.0 License].
-
-[GPLv3 License]: https://opensource.org/licenses/GPL-3.0
+You can send message to oycillessen@foxmail.com .
