@@ -118,7 +118,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "ETA-FINDER"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "ETD-Bire"))
         HorizontalHearder_1=['SSID','BSSID','RSSI','CH','ENC-AUTH']
         self.ScantableWidget.setHorizontalHeaderLabels(HorizontalHearder_1)
         for index in range(self.ScantableWidget.columnCount()):
