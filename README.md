@@ -15,7 +15,7 @@ Following are the requirements for getting the most out of ETD-Bire:
 	* wpa_supplicant (```sudo apt-get install wpa_supplicant```)
 - Python-Libary required:
 	* pyqt5 (```pip install pyqt5```)
-	* scapy (```pip intall scapy```)
+	* scapy (```pip install scapy```)
 	* pywifi (```pip install pywifi```)
 	
 ## Installation&Usage
