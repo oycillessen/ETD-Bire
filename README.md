@@ -31,6 +31,6 @@ sudo python3 main.py
 
 ## Contact
 
-(C) oycillessen@foxmail.com 2019, [GPLv3 License].
+(c) oycillessen@foxmail.com 2019, [GPL-3.0 License].
 
 [GPLv3 License]: https://opensource.org/licenses/GPL-3.0
