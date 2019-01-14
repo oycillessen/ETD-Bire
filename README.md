@@ -13,7 +13,7 @@ Following are the requirements for getting the most out of ETD-Bire:
 - Software required:
 	* Python 3.5+
 	* wpa_supplicant 
-		```bash sudo apt-get install wpa_supplicant```
+		**```sudo apt-get install wpa_supplicant```
 - Python-Libary required:
 	* pyqt5 (```bashpip install pyqt5```)
 	* scapy (```bashpip intall scapy```)
