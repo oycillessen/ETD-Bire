@@ -1,5 +1,5 @@
 # ETD-Bire
-This program is used for evil twin attackes detection.
+This program is used for Evil-Twin Attack detection.
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3-blue.svg"></a> <img src="https://img.shields.io/badge/license-GPLv3-red.svg">
 </p>
